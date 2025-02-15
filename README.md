@@ -22,14 +22,6 @@ I’m a passionate DevOps Engineer with 5 years of experience in building scalab
 
 ---
 
-### **Projects**  
-Here are some of the projects I’ve worked on:  
-- **[Project 1](#):** Automated CI/CD pipeline using Jenkins and Kubernetes.  
-- **[Project 2](#):** Migrated on-premise infrastructure to AWS using Terraform.  
-- **[Project 3](#):** Implemented monitoring and alerting with Prometheus and Grafana.  
-
----
-
 ### **Let’s Connect!**  
 - [LinkedIn] :  linkedin.com/in/ranjith-kumar-boda-b690a2204 
 - [Email] : ranjithkumarboda89@gmail.com 
