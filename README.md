@@ -1,5 +1,5 @@
 # Hi, I'm  Boda Ranjith Kumar 👋  
-### DevOps Engineer | Cloud Enthusiast | Automation Advocate  
+### Genarative AI | DevOps Engineer | Cloud Enthusiast | Automation Advocate  
 
 🌍 **Location:** Hyderabad, India .  
 📧 **Email:** ranjithkumarboda89@gmail.com  
